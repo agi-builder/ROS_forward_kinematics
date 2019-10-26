@@ -13,7 +13,7 @@ For more infomantion please go to https://xiangzhuo-ding.github.io/ROS_Projects.
 2. Run ```catkin_make```
 
 ## Let's run it!
-1. Run ```source devel/setup.bash```
+1. Run ```source devel/setup.bash``` for each terminal
 2. Run the simulator 
     ```roslaunch robot_sim kuka_lwr.launch cycle_move:=true rviz:=true```
     or
